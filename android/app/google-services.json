@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "229104921632",
+    "firebase_url": "https://madproject-9be5a-default-rtdb.firebaseio.com",
+    "project_id": "madproject-9be5a",
+    "storage_bucket": "madproject-9be5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229104921632:android:b45be49bb1bad5574b6045",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCjEVqZN15hb9hraEHHLDh8SYR0WFNtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229104921632:android:ca764a5bfabb8cfe4b6045",
+        "android_client_info": {
+          "package_name": "com.example.lifeflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCjEVqZN15hb9hraEHHLDh8SYR0WFNtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229104921632:android:0fe0beef0d11b2d04b6045",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCjEVqZN15hb9hraEHHLDh8SYR0WFNtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
